@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/moncici007/binance"
+    "url": "https://github.com/killmanforu/knockout-master.git"
   },
   "website": "https://github.com/killmanforu/knockout-master.git",
   "keywords": [
@@ -18,15 +18,11 @@
   ],
   "author": "killmanforu",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/killmanforu/knockout-master/issues"
-  },
-  "publishConfig": {
+   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
   },
-  "homepage": "https://github.com/killmanforu/knockout-master#readme",
-  "dependencies": {
+   "dependencies": {
     "killmanforu01/exenv-master": "^1.0.0"
   }
 }
