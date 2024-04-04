@@ -1,5 +1,5 @@
 {
-  "name": "knockout-bootstrap",
+  "name": "killmanforu/knockout-master",
   "version": "0.3.1",
   "description": "Knockout Bindings for Bootstrap Widgets",
   "main": "src/knockout-bootstrap.js",
@@ -11,12 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/billpull/knockout-bootstrap.git"
+    "url": "https://github.com/killmanforu/knockout-master.git"
   },
   "keywords": [
     "knockout",
-    "bootstrap",
-    "knockout-bootstrap",
     "bindings"
   ],
   "dependencies": {
@@ -43,7 +41,7 @@
     "karma-chai": "~0.1.0",
     "karma-jasmine": "~0.1.5"
   },
-  "author": "Bill Pullen",
+  "author": "killmanforu",
   "license": "MIT",
   "readmeFilename": "README.md"
 }
