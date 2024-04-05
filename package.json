@@ -1,6 +1,6 @@
 {
   "name": "@killmanforu01/knockout-master",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "knockout",
   "type": "module",
   "main": "js",
@@ -27,6 +27,6 @@
     "registry": "https://registry.npmjs.org"
   },
    "dependencies": {
-    "@killmanforu01/exenv-master": "^1.0.0"
+    "@killmanforu01/exenv-master": "^1.0.1"
   }
 }
