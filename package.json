@@ -1,7 +1,7 @@
 {
-  "name": "killmanforu01/knockout-master",
+  "name": "@killmanforu01/knockout-master",
   "version": "1.0.0",
-  "description": "",
+  "description": "knockout",
   "type": "module",
   "main": "js",
   "scripts": {
@@ -18,11 +18,15 @@
   ],
   "author": "killmanforu",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/killmanforu/knockout-master/issues"
+  },
+  "homepage": "https://github.com/killmanforu/knockout-master",
    "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
   },
    "dependencies": {
-    "killmanforu01/exenv-master": "^1.0.0"
+    "@killmanforu01/exenv-master": "^1.0.0"
   }
 }
